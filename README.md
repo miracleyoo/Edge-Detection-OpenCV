@@ -5,7 +5,7 @@ An edge detection program using OpenCV.
 - It allows batch operation to images in a certain directory. 
 - You can choose whether the output is a white or black background. 
 - It is really fast.
-- I mainly used it to get the sketch of a anime image to practice my drawing skill ^_^. 
+- I mainly used it to get the sketch of anime images to practice my drawing skill ^_^. 
 
 一个用OpenCV实现的边缘提取便利小程序。
 
