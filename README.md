@@ -13,3 +13,13 @@
 - 可以通过Arg指定白底黑线或相反。
 - 它真的很快！
 - 我用它来提取动漫线稿以辅助练习绘画~
+
+## 示例
+
+### 原图
+
+![](http://ww4.sinaimg.cn/large/006tNc79ly1g5snzai79bj31fp0u01kx.jpg)
+
+### 处理图
+
+![](http://ww2.sinaimg.cn/large/006tNc79ly1g5snyi15lfj31fp0u0e81.jpg)
